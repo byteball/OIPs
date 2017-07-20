@@ -1,0 +1,2 @@
+# BBIPs
+Byteball Improvement Proposals
