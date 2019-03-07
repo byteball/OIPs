@@ -1,5 +1,5 @@
-# BBIPs
-Byteball Improvement Proposals
+# OIPs
+Obyte Improvement Proposals
 
 
 People wishing to submit BBIPs, first should propose their idea or document to the [Obyte Discord](http://discord.obyte.org). After discussion they should create a pull request to this git repository with the proposed BBIP. After copy-editing and acceptance, it will be published here.
