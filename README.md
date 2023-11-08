@@ -12,4 +12,4 @@ Having a BBIP here does not make it a formally accepted standard until its statu
 |Number|Layer|Title|Owner|Type|Status|
 |------|-----|-----|-----|----|------|
 |[1](oip-0001.md)||OIP Purpose and Guidelines|Peter Miklos|Process|Active|
-|[2](oip-0002.md)||Consensus Timestamps|Tony Churyumoff|Standards Track|Draft|
+|[2](oip-0002.md)||Consensus Timestamps|Tony Churyumoff|Standards Track|Active|
