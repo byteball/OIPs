@@ -15,3 +15,7 @@ Having a BBIP here does not make it a formally accepted standard until its statu
 |[2](oip-0002.md)||Consensus Timestamps|Tony Churyumoff|Standards Track|Active|
 |[3](oip-0003.md)||Community voting for Order Providers|Tony Churyumoff|Standards Track|Draft|
 |[4](oip-0004.md)||Emergency replacement of Order Providers|Tony Churyumoff|Standards Track|Draft|
+|[5](oip-0005.md)||Spam protection, part 1: protection against excessively large transactions|Tony Churyumoff|Standards Track|Draft|
+|[6](oip-0006.md)||Spam protection, part 2: protection against too many transactions|Tony Churyumoff|Standards Track|Draft|
+|[7](oip-0007.md)||Temporary data|Tony Churyumoff|Standards Track|Draft|
+|[8](oip-0008.md)||Burn fee|Tony Churyumoff|Standards Track|Draft|
